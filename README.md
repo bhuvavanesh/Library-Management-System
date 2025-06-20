@@ -21,7 +21,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
-Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
